@@ -1,4 +1,4 @@
-# Smart-Student-Project-Management-System
+# Smart-Student-Project-Management-System 
 A web-based Smart Student Management System built using **Flask** and **MySQL** that allows secure user authentication and basic student data management. The project demonstrates backend development, database integration, and form handling using Python.
 
  Features :-
